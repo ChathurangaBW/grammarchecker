@@ -1,4 +1,4 @@
-Grammar Checking Application
+Title: Grammar Checking Application
 
 Description:
 This Grammar Checking Application is a tool developed in Python that helps users check the grammar of their written text and provides suggestions for corrections. The application utilizes the language-check library, which leverages LanguageTool under the hood, to perform grammar checks and offer suggestions for improving the text.
@@ -13,9 +13,7 @@ Features:
 Getting Started:
 1. Install the required dependencies by running the following command:
    ```
-pip install tkinter
-pip install language-check
-
+   pip install -r requirements.txt
    ```
    This command will install the necessary dependencies, including Python and the language-check library.
 2. Clone the repository and navigate to the project directory.
