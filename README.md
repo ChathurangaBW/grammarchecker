@@ -1,4 +1,4 @@
-Title: Grammar Checking Application
+Grammar Checking Application
 
 Description:
 This Grammar Checking Application is a tool developed in Python that helps users check the grammar of their written text and provides suggestions for corrections. The application utilizes the language-check library, which leverages LanguageTool under the hood, to perform grammar checks and offer suggestions for improving the text.
